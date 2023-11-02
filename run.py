@@ -11,4 +11,4 @@ if bit == '64bit':
  import riki4
 elif bit == '32bit':
  print('\033[1;91m[\033[1;97m✓\033[1;91m] \033[1;97m32Bit Found')
- import pro
+ import riki4
