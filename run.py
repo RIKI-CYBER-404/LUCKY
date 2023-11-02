@@ -1,5 +1,4 @@
-os.system('xdg-open https://github.com/RIKI-CYBER-404')
-os.system('xdg-open https://chat.whatsapp.com/ImzGWp70OOW8Pi1X7pR6Jl')
+
 import os, platform, time, sys
 try:
  import requests
